@@ -1,0 +1,15 @@
+{
+  "name": "new_white_bord",
+  "version": "1.0.0",
+  "description": "white_bord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "sushil",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.5.0"
+  }
+}
